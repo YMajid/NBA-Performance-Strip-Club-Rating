@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NBA Strip Club.iml" filepath="$PROJECT_DIR$/.idea/modules/NBA Strip Club.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NBA Strip Club-build.iml" filepath="$PROJECT_DIR$/.idea/modules/NBA Strip Club-build.iml" />
+    </modules>
+  </component>
+</project>
