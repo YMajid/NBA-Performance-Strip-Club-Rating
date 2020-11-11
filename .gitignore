@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+venv/
+target/
+project/
+python/yelp_api/secrets.py
